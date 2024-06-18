@@ -36,99 +36,87 @@ const Tuition = () => {
             (Federal Student Aid, 2023).
           </p>
           <p>
-            Dorm rooms can have the classic arrangement of two single beds, bunk beds, or even a two-bedroom suite.
-            These rooms are determined by the price, depending on location, amount of roommates, and availability of
-            scheduling, so make sure you follow your school’s registration periods to get your room. Something to
-            consider is the bathroom and food situation, where some students can have their own private bathroom and
-            kitchenette area, others must share a public bathroom and kitchen with the whole floor. And while some
-            universities provide cleaning services for both private and public bathrooms, sometimes students must be
-            responsible for cleaning not only their personal rooms, but the bathroom as well ( Marie, 2018).
+            To get started with this process, the Federal Student Aid Department strongly encourages students to create
+            an account, or their FSA ID, as soon as possible. You will also need to gather all of those important
+            documents such as your Social Security Number and even tax forms. Tax forms are located on Federal Student
+            Aid’s website and their step-by-step guide of “Filling Out the FAFSA Form” (2023).
           </p>
           <p>
-            Once you figure out your general living preferences, it’s time to find roommates! Most school ’s will
-            usually pair students randomly using a questionnaire about students’ personal living situations. It is
-            important for students with accommodations to reach out to their school, especially for students who
-            identify with a specific gender, practice a certain religion, or are a disabled person. And if you still are
-            worried about the school selection process, then most school’s allow you to pick your roommate! You can
-            choose a friend or reach out to your school’s social media pages that help students find roommates ahead of
-            time.
+            <b>How to Fill Out the Free Application for Federal Student Aid (FAFSA®) Form</b>
           </p>
           <p>
-            When committing to a residence hall, make sure you read the school’s guidelines, especially if you feel
-            uncomfortable at any point when committing to a dorm. School’s can always try to accommodate students by
-            moving them to different dorm rooms if there is a long-term issue among roommates, but if students would
-            like to move off-campus at any point of the academic year, a student may not be able to depending on how the
-            school operates. Always do your research ahead of time when it comes to your school’s rules on their
-            dormitories and residence halls.
+            For those thinking about staying local or in your own state for school, State Financial Aid Programs provide
+            financial assistance to student’s in their state. These State Aid Programs are grants and scholarships where
+            students can receive money from their state and are not expected to pay it back.
+          </p>
+          <p>
+            Usually, this list is only applicable to students who are attending an in-state academic institution, but on
+            rare occasions, some states may provide aid for those who are looking to go elsewhere. To find deadlines and
+            state-related details, check out the National Association of Student Financial Aid Administrators, or the
+            NASFAA, as they have an interactive description of each state’s programs (2023).
           </p>
 
-          <h2>Apartments</h2>
+          <h2>Scholarship</h2>
           <p>
-            Usually considered off-campus and not supported by the university or college that you plan on attending,
-            apartments can provide a unique experience that is different from what you can find in a dorm. If your
-            school of choice allows you to live off-campus, apartment hunting and living can give students a more
-            realistic environment that they would face once graduating from college. This puts the responsibility solely
-            in the hands of the student to price out local apartments, schedule tours ahead of time, and find roommates
-            who are also interested in living off-campus as well.
+            Scholarships are another way one can earn financial support for college without paying that money back! It
+            is a “fan favorite” among many students because there are so many opportunities to earn money! But that also
+            means for some students who are applying for certain scholarships, it can be much harder to win.
+            Scholarships can be filtered so that it isn’t a “free-for-all”, and you can tell your own unique story to
+            the judges. Similar to the State Aid Programs, scholarships can target a specific audience allowing each
+            voice to shine, versus getting drowned out.
           </p>
           <p>
-            Instead of paying a fixed rate given by your university, college apartments will require monthly payments
-            for rent, and for some complexes, include separate water, power, internet, and parking bills that will also
-            have to be paid monthly either towards your landlord or the provider. Apartments can sometimes be less
-            expensive compared to residence halls which can make them the more favorable choice to students, or more
-            expensive if it includes more amenities and is in a prime location that the residence halls didn’t offer
-            (Unigo, 2023).
-          </p>
-          <p>
-            As distance can play a big role in the price of your apartment, make sure you are aware of how far campus is
-            in relation to your apartment. This could mean learning the bus system, finding your subway/train stops,
-            getting a campus parking pass, bringing a bike, or be okay with walking. Be aware of costs that may be
-            added, especially when bringing your car, that could mean paying your school a monthly parking pass in
-            addition to regular school costs (Fay, 2021).
-          </p>
-          <p>
-            But more than likely, with the independence of off-campus housing, apartments include a full kitchen, a
-            private bathroom, and generally, individualized bedrooms. This gives students more freedom with apartments,
-            may it be selecting furniture and decorations, inviting friends over, leaving and exiting whenever you want,
-            as well as the lack of rules and regulations set by the university staff (Marie, 2018). But before making a
-            big commitment, make sure you have a quick way to get in contact with your landlord or the building
-            supervisor and maintenance.
-          </p>
-          <p>
-            This could be a big deal when discussing lease options or repairs, especially if you don’t like your
-            roommate anymore or need major fixes, as each apartment may have lenient or strict rules about breaking
-            their contract or getting work done to the rented space.
+            Unfortunately, an essential element of scholarships is submitting essays. This may be a thrill for some, but
+            for others, it can just be daunting and downright discouraging. There is no way around this as the
+            “No-Essay“ scholarships are usually a waste of time, and the ones that seem “too good to be true” are
+            exactly that, a scam not to be clicked on. But don’t give up yet! There is always a chance to win by telling
+            your story, as there may be somebody out there who thinks you deserve the scholarship for being relatable,
+            valuable, or even inspirational. Our biggest tip is to find scholarship applications that are similar to
+            those previously submitted so that you can add a few tweaks, and it’s like a brand new essay for new
+            readers.
           </p>
 
-          <h2>Commuting from Home</h2>
+          <h3>Where to find scholarships:</h3>
+          <ol>
+            <li>
+              <a
+                href="https://bigfuture.collegeboard.org/pay-for-college/scholarship-search"
+                target="_blank"
+                rel="noreferrer"
+              >
+                College Board
+              </a>
+            </li>
+            <li>
+              <a href="https://www.fastweb.com/" target="_blank" rel="noreferrer">
+                Fastweb
+              </a>
+            </li>
+            <li>
+              <a href="https://www.petersons.com/scholarship-search.aspx" target="_blank" rel="noreferrer">
+                Peterson’s
+              </a>
+            </li>
+            <li>
+              <a href="https://www.chegg.com/scholarships" target="_blank" rel="noreferrer">
+                Chegg Colleges
+              </a>
+            </li>
+            <li>
+              <a href="https://www.scholarships.com/" target="_blank" rel="noreferrer">
+                Scholarships.com
+              </a>
+            </li>
+          </ol>
           <p>
-            If you already live relatively close to the school you plan on attending and are comfortable or would like
-            to stay home, commuting from home to school provides the best economical option, but may feel like you are
-            missing out on the “college experience”.
-          </p>
-          <p>
-            Commuting may feel uncommon, but there is definitely a large group of students that commute especially if
-            they live in the area. And while attending school, you have the comfort of knowing you will always have a
-            bed, access to food, are able to do your laundry, and are near your loved ones. This definitely cuts out
-            some of the finances that may come with options closer to your school of choice, but this also means having
-            that enriching “college life” may not be the same.
-          </p>
-          <p>
-            This option would be the go-to option for community college students, as the majority of community colleges
-            don’t have housing provided by the school, but in terms of four year colleges and universities, students may
-            find that commuting limits their ability to have a large social life, interference with attending club
-            meetings, or even lack of time to explore the area with friends.
-          </p>
-          <p>
-            Then again, if you are in a financial bind but really want to attend school, the one expense to consider is
-            cutting housing by staying home, as that can really jump the price tag (University of the People, 2020).
-            Just make sure ahead of time that there is a planned transportation method that works for you, either it
-            being driving, taking the bus system, finding your subway stop, or accessing your local train schedule.
-            These methods of transportation may accumulate in daily costs, so keep that in mind if you choose to commute
-            from home.
+            Scholarships can also be earned via one’s high school or expected college or university. These academic
+            institutions want to see their students grow more than anyone, and providing the best financial chances at
+            no cost can be a lifesaver for many students. But keep in mind the deadlines, as scholarships will be due
+            right around college applications, so time management and organization will be key when handling all of
+            these documents.
           </p>
 
-          <h2>References</h2>
+          <h3>References</h3>
           <ul>
             <li>
               Fay, M. (2021, December 16). Dorm vs. Apartment: Which is Cheaper. Debt.org.
