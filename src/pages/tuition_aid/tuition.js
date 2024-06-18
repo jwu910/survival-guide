@@ -119,36 +119,56 @@ const Tuition = () => {
           <h3>References</h3>
           <ul>
             <li>
-              Fay, M. (2021, December 16). Dorm vs. Apartment: Which is Cheaper. Debt.org.
-              <a href="https://www.debt.org/students/dorm-vs-apartment/" target="_blank" rel="noreferrer">
-                https://www.debt.org/students/dorm-vs-apartment/
+              College Board. (2023, February). What is the FAFSA? Collegeboard.org.
+              <a href="https://blog.collegeboard.org/what-is-the-fafsa" target="_blank" rel="noreferrer">
+                https://blog.collegeboard.org/what-is-the-fafsa
               </a>
             </li>
             <li>
-              Marie, J. (2018, November 28). Staying in a Dorm Vs. an Apartment. SFGATE.
+              Federal Student Aid. (2023). Filling Out the FAFSA Form. Studentaid.gov.
+              <a href="https://studentaid.gov/apply-for-aid/fafsa/filling-out" target="_blank" rel="noreferrer">
+                https://studentaid.gov/apply-for-aid/fafsa/filling-out
+              </a>
+            </li>
+            <li>
+              Federal Student Aid. (2023). Student Loan Repayment. Studentaid.gov.
+              <a href="https://studentaid.gov/manage-loans/repayment#repayment-plans" target="_blank" rel="noreferrer">
+                https://studentaid.gov/manage-loans/repayment#repayment-plans
+              </a>
+            </li>
+            <li>
+              Government of Canada. (2022). Canada Student Grants and Loans - Apply with your province or territory.
+              Canada.ca.
               <a
-                href="https://homeguides.sfgate.com/staying-dorm-vs-apartment-46090.html"
+                href="https://www.canada.ca/en/services/benefits/education/student-aid/grants-loans/province-apply.html"
                 target="_blank"
                 rel="noreferrer"
               >
-                https://homeguides.sfgate.com/staying-dorm-vs-apartment-46090.html
+                https://www.canada.ca/en/services/benefits/education/student-aid/grants-loans/province-apply.html
               </a>
             </li>
             <li>
-              Unigo. (2023, February 14). Dorm vs Apartment: The Best Choice For College Students. Unigo.
+              Government of Canada. (2022). Canada Student Grants and Loans - What student grants and loans offer.
+              Canada.ca.
               <a
-                href="https://www.unigo.com/in-college/campus-life/dorm-vs-apartment-which-should-you-choose"
+                href="https://www.canada.ca/en/services/benefits/education/student-aid/grants-loans.html"
                 target="_blank"
                 rel="noreferrer"
               >
-                https://www.unigo.com/in-college/campus-life/dorm-vs-apartment-which-should-you-choose
+                https://www.canada.ca/en/services/benefits/education/student-aid/grants-loans.html
               </a>
             </li>
             <li>
-              University of the People. (2020, January 28). College Close to Home: Is Commuting to College Worth It?
-              University of the People.
-              <a href="https://www.uopeople.edu/blog/what-is-a-commuter-school/" target="_blank" rel="noreferrer">
-                https://www.uopeople.edu/blog/what-is-a-commuter-school/
+              National Association of Student Financial Aid Administrators. (2023). State Financial Aid Programs.
+              Nasfaa.org.
+              <a href="https://www.nasfaa.org/State_Financial_Aid_Programs" target="_blank" rel="noreferrer">
+                https://www.nasfaa.org/State_Financial_Aid_Programs
+              </a>
+            </li>
+            <li>
+              StudentAid BC. (2022). How to apply for a loan. Studentaidbc.ca.
+              <a href="https://studentaidbc.ca/apply/how-to-apply" target="_blank" rel="noreferrer">
+                https://studentaidbc.ca/apply/how-to-apply
               </a>
             </li>
           </ul>
