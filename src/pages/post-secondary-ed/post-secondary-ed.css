@@ -72,6 +72,10 @@ ul, li {
   font-weight: 800;
 }
 
+.content h3 {
+  font-family: 'Poppins', sans-serif;
+}
+
 .content a {
   color: black;
 }
