@@ -1,10 +1,10 @@
 import './App.css';
-import Housing from './pages/tuition_aid/tuition';
+import PostSecondaryEd from './pages/post-secondary-ed/post-secondary-ed';
 
 function App() {
   return (
     <div className="App">
-      <Housing />
+      <PostSecondaryEd />
     </div>
   );
 }
