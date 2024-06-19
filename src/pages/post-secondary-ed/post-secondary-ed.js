@@ -5,9 +5,9 @@ import flag from '../../images/US.png';
 const PostSecondaryEducation = () => {
   return (
     <div className="border">
-      <div className="housing-section">
-        <div className="housingImgs">
-          <img src={postsecedImg} alt="postSecEd" className="housingImg" />
+      <div className="container">
+        <div className="imgs">
+          <img src={postsecedImg} alt="postSecEd" className="mainImg" />
           <img src={flag} alt="USflag" className="flag" />
         </div>
         <div className="content">
