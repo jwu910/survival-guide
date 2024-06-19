@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&family=Chewy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&family=Chewy&family=Poppins:wght@300;400;500;600;700&display=swap');
+
+.border {
+  background: #fae9d3;
+  max-width: 998px;
+  height: auto;
+  border-radius: 14px;
+  padding: 20px;
+  margin: 34px 0 0 460px;
+}
+
+.container {
+  background: #fff;
+  max-width: 996px;
+  height: 642px;
+  border-radius: 20px;
+  overflow-y: scroll;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container::-webkit-scrollbar {
+  width: 30px;
+}
+
+.container::-webkit-scrollbar-track {
+  background-color: #f2dac5;
+  border-radius: 20px;
+}
+
+.container::-webkit-scrollbar-thumb {
+  background-color: #f6a794;
+  border-radius: 20px;
+}
+
+.imgs {
+  display: flex;
+  align-items: flex-start;
+  padding-top: 30px;
+}
+
+.mainImg {
+  max-width: 480px;
+}
+
+.flag {
+  max-width: 120px;
+}
+
+.content {
+  max-width: 572px;
+}
+
+.content h1 {
+  font-family: Chewy;
+  font-size: 44px;
+  font-weight: 400;
+}
+
+.content p,
+ul, li {
+  font-family: 'Poppins', sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.content h2 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 26px;
+  font-weight: 800;
+}
+
+.content h3 {
+  font-family: 'Poppins', sans-serif;
+}
+
+.content a {
+  color: black;
+}

@@ -1,10 +1,10 @@
 import './App.css';
-import Faq from './pages/faq/Faq';
+import PostSecondaryEd from './pages/post-secondary-ed/post-secondary-ed';
 
 function App() {
   return (
     <div className="App">
-      <Faq />
+      <PostSecondaryEd />
     </div>
   );
 }
