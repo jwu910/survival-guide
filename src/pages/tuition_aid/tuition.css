@@ -10,7 +10,7 @@
   margin: 34px 0 0 460px;
 }
 
-.housing-section {
+.container {
   background: #fff;
   max-width: 996px;
   height: 642px;
@@ -21,27 +21,27 @@
   align-items: center;
 }
 
-.housing-section::-webkit-scrollbar {
+.container::-webkit-scrollbar {
   width: 30px;
 }
 
-.housing-section::-webkit-scrollbar-track {
+.container::-webkit-scrollbar-track {
   background-color: #f2dac5;
   border-radius: 20px;
 }
 
-.housing-section::-webkit-scrollbar-thumb {
+.container::-webkit-scrollbar-thumb {
   background-color: #f6a794;
   border-radius: 20px;
 }
 
-.housingImgs {
+.imgs {
   display: flex;
   align-items: flex-start;
   padding-top: 30px;
 }
 
-.housingImg {
+.mainImg {
   max-width: 480px;
 }
 
@@ -70,6 +70,10 @@ ul, li {
   font-family: 'Poppins', sans-serif;
   font-size: 26px;
   font-weight: 800;
+}
+
+.content h3 {
+  font-family: 'Poppins', sans-serif;
 }
 
 .content a {
