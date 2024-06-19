@@ -1,10 +1,10 @@
 import './App.css';
-import Faq from './pages/faq/Faq';
+import Tuition from './pages/tuition_aid/tuition';
 
 function App() {
   return (
     <div className="App">
-      <Faq />
+      <Tuition />
     </div>
   );
 }
