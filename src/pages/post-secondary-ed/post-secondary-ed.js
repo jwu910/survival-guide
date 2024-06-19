@@ -1,6 +1,7 @@
 import './tuition.css';
 import postsecedImg from '../../images/postseced.png';
 import flag from '../../images/US.png';
+import './post-secondary-ed.css';
 
 const PostSecondaryEducation = () => {
   return (
